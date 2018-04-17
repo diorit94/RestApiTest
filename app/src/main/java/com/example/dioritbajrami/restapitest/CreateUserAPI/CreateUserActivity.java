@@ -1,4 +1,4 @@
-package com.example.dioritbajrami.restapitest.UserAPI;
+package com.example.dioritbajrami.restapitest.CreateUserAPI;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

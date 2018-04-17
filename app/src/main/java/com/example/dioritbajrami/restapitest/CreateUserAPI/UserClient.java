@@ -1,4 +1,4 @@
-package com.example.dioritbajrami.restapitest.UserAPI;
+package com.example.dioritbajrami.restapitest.CreateUserAPI;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

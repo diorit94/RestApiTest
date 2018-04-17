@@ -1,4 +1,4 @@
-package com.example.dioritbajrami.restapitest.UserAPI;
+package com.example.dioritbajrami.restapitest.CreateUserAPI;
 
 /**
  * Created by dioritbajrami on 17.04.18.
