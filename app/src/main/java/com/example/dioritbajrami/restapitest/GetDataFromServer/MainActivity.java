@@ -1,9 +1,11 @@
-package com.example.dioritbajrami.restapitest;
+package com.example.dioritbajrami.restapitest.GetDataFromServer;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import com.example.dioritbajrami.restapitest.R;
 
 import java.util.List;
 

@@ -1,13 +1,13 @@
-package com.example.dioritbajrami.restapitest;
+package com.example.dioritbajrami.restapitest.GetDataFromServer;
 
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-import android.widget.TextView;
 
-import java.util.ArrayList;
+import com.example.dioritbajrami.restapitest.R;
+
 import java.util.List;
 
 /**

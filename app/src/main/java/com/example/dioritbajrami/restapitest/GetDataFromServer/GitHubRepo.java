@@ -1,4 +1,4 @@
-package com.example.dioritbajrami.restapitest;
+package com.example.dioritbajrami.restapitest.GetDataFromServer;
 
 /**
  * Created by dioritbajrami on 13.04.18.

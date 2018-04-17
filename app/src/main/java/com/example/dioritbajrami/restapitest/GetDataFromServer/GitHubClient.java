@@ -1,4 +1,4 @@
-package com.example.dioritbajrami.restapitest;
+package com.example.dioritbajrami.restapitest.GetDataFromServer;
 
 import java.util.List;
 
